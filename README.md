@@ -1,4 +1,4 @@
-# Project_Home_Credit_Default_Risk
+# Project: Home Credit Default Risk
 
 Predict if an applicant is capable to repay a loan
 
